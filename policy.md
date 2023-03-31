@@ -8,7 +8,7 @@ Thank you for choosing to be part of our community at Asap Softwares Developers 
 
 This privacy notice describes how we might use your information if you:
 
-Download and use our mobile application — PayAsap
+Download and use our mobile application — BillPoint
 
 Engage with us in other related ways ― including any sales, marketing, or events
 In this privacy notice, if we refer to:
