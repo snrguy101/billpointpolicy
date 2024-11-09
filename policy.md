@@ -1,6 +1,6 @@
 PRIVACY NOTICE
 
-Last updated March 14, 2024
+Last updated November 9, 2024
 
 
 
@@ -8,7 +8,7 @@ Thank you for choosing to be part of our community at Asap Softwares Developers 
 
 This privacy notice describes how we might use your information if you:
 
-Download and use our mobile application — BillPoint
+Download and use our mobile application — JustBillPoint
 
 Engage with us in other related ways ― including any sales, marketing, or events
 In this privacy notice, if we refer to:
@@ -57,7 +57,7 @@ In Short:  We collect information regarding your  push notifications, when you u
 
 If you use our App, we also collect the following information:
 
-Contact List. we may request to access your contact list, this is to help quick selection of contact to recharge via Billpoint. and you equally have the permission to decline such request.
+Contact List. we may request to access your contact list, this is to help quick selection of contact to recharge via JustBillPoint. and you equally have the permission to decline such request.
 
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
